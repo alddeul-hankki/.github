@@ -10,7 +10,7 @@
 
 | <img src="https://github.com/Yjooon.png" width="100px"/> | <img src="https://github.com/kwonssshyeon.png" width="100px"/> | <img src="https://github.com/LES8638.png" width="100px"/> | <img src="https://github.com/daabaat.png" width="100px"/> | <img src="https://github.com/jinyeong212.png" width="100px"/> |
 |---|---|---|---|---|
-| **김영준**<br>팀장 / Backend<br>[@Yjooon](https://github.com/Yjooon) | **권수현**<br>Frontend<br>[@kwonssshyeon](https://github.com/kwonssshyeon) | **김채일**<br>Frontend<br>[@LES8638](https://github.com/LES8638) | **손근영**<br>Frontend<br>[@daabaat](https://github.com/daabaat) | **임진영**<br>Frontend<br>[@jinyeong212](https://github.com/jinyeong212) |
+| **김영준**<br>팀장 FE/BE<br>[@Yjooon](https://github.com/Yjooon) | **권수현**<br>FE/BE<br>[@kwonssshyeon](https://github.com/kwonssshyeon) | **김채일**<br>BE/AI<br>[@LES8638](https://github.com/LES8638) | **손근영**<br>FE/BE<br>[@daabaat](https://github.com/daabaat) | **임진영**<br>FE/BE<br>[@jinyeong212](https://github.com/jinyeong212) |
 
 
 
@@ -19,12 +19,14 @@
 ## 📏 Gihhub 사용 규칙
 
 ### 1. 브랜치 네이밍 규칙
+`{타입}/{작업설명}-{Jira-Key}`
+
 | 타입 | 설명 | 예시 |
 |------|------|------|
-| `feat/` | 새로운 기능 개발 | `feat/group-order-api` |
-| `fix/` | 버그 수정 | `fix/order-time-bug` |
-| `refactor/` | 코드 리팩토링 | `refactor/menu-component` |
-| `hotfix/` | 긴급 수정 | `hotfix/order-crash` |
+| `feat/` | 새로운 기능 개발 | `feat/group-order-api-JIRA-1` |
+| `fix/` | 버그 수정 | `fix/order-time-bug-JIRA-1` |
+| `refactor/` | 코드 리팩토링 | `refactor/menu-component-JIRA-1` |
+| `hotfix/` | 긴급 수정 | `hotfix/order-crash-JIRA-1` |
 
 ---
 
